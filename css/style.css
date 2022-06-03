@@ -173,12 +173,6 @@ body.lock{
 .flex{
 	display: flex;
 }
-.position_header{
-	
-}
-.logo{
-
-}
 .icon_logo{
 	padding: 20px 0 30px 0;
 
@@ -234,6 +228,9 @@ body.lock{
 	box-shadow: 0 0 10px rgba(0,0,0,0.5);
 	margin-left: auto;
   	margin-right: 0em;
+}
+.button_account{
+	padding: 15px 20px;
 }
 .account:hover{
 	color: #F0940A;
